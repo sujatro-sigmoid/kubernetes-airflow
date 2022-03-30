@@ -1,4 +1,4 @@
-# kubernetes-airflow
+# kubernetes-airflow using helm chart
 
 Create deployment and service for above airflow and postgres (you can use postgres helm chart for postgres deployment)
 
